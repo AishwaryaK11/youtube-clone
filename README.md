@@ -24,7 +24,7 @@ Install Dependencies in server and client folder
 ```
 this will install all required packages written in package.json file.
 
-then in client folder
+then
 ```bash
   npm start
 
