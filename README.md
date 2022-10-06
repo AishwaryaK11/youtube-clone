@@ -1,5 +1,5 @@
 # 👯‍♀️YouTube Clone 👯‍♀️ 
-A front-end video-streaming web application that allows users to stream videos online. Consisting stunning video sections, custom categories, channel pages etc. It is build using ReactJS, MaterialUI, RapidAPI, and other dependencies.
+A front-end video-streaming web application that allows users to stream videos online. Consisting of stunning video sections, custom categories, channel pages etc. It is build using ReactJS, MaterialUI, RapidAPI, and other dependencies.
 
 ## 👩‍💻 What we did in this project? 
 
